@@ -1,3 +1,8 @@
+// UPDESH ARORA
+// PRN - 24070123124
+// ENTC B-3
+// EXPERIMENT 06
+
 #include <iostream>
 using namespace std;
 
